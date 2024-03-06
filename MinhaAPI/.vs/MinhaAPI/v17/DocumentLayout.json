@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ander\\Documents\\GitHub\\C-Sharp\\MinhaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2FEA5F-391D-4211-88B7-C8728D44347A}|MinhaAPI\\MinhaAPI.csproj|c:\\users\\ander\\documents\\github\\c-sharp\\minhaapi\\minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2FEA5F-391D-4211-88B7-C8728D44347A}|MinhaAPI\\MinhaAPI.csproj|solutionrelative:minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\Documents\\GitHub\\C-Sharp\\MinhaAPI\\MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ander\\Documents\\GitHub\\C-Sharp\\MinhaAPI\\MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:05:10.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
