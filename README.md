@@ -5,9 +5,6 @@
 
 Este projeto é possuem duas API's, uma minimal e outra com controller, construídas usando C# no Visual Studio. O objetivo é demonstrar a implementação de métodos HTTP GET e manipulação de rotas.
 
-[API](https://github.com/AndersonShermann/C-Sharp/tree/main/MinhaAPI)
-[MinimalAPI](https://github.com/AndersonShermann/C-Sharp/tree/main/MinhaMinimalAPI)
-
 #### Recursos
 
 - Implementação do método HTTP GET
@@ -16,12 +13,12 @@ Este projeto é possuem duas API's, uma minimal e outra com controller, constru�
 #### Requisitos
 
 - Visual Studio (ou qualquer ambiente de desenvolvimento C#)
-- .NET Framework
+- .NET Framework 8
 
 #### Começando
 
 1. Clone este repositório em sua máquina local.
-2. Abra o arquivo de solução (`SimpleAPI.sln`) no Visual Studio.
+2. Abra o arquivo de solução (`MinhaApi.sln`) ou (`MinhaMinimalApi.sln`) no Visual Studio.
 3. Compile a solução.
 4. Execute o projeto.
 5. Acesse os endpoints da API usando o cliente HTTP de sua preferência.
@@ -30,11 +27,6 @@ Este projeto é possuem duas API's, uma minimal e outra com controller, constru�
 
 A API fornece os seguintes endpoints:
 
-- `/api/data` - Recupera dados da API.
+- `/wheaterforecast` - Cria previsões do tempo aleatórias.
+- `/wbemvindo` - Retorna mensagem de bem vindo.
 
-## Exemplos
-
-Para recuperar dados da API, você pode usar uma ferramenta como cURL ou Postman:
-
-```bash
-curl http://localhost:porta/api/data
