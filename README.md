@@ -1,9 +1,9 @@
 # Projetos e Estudos C#
 
 ## Projeto 01 
-### API e Minimal API com C# e Visual Studio
+### [API](https://github.com/AndersonShermann/C-Sharp/tree/main/MinhaAPI) e [Minimal API](https://github.com/AndersonShermann/C-Sharp/tree/main/MinhaMinimalAPI) com C# e Visual Studio
 
-Este projeto é uma API simples construída usando C# no Visual Studio. O objetivo é demonstrar a implementação de métodos HTTP GET e manipulação de rotas.
+Este projeto é possuem duas API's, uma minimal e outra com controller, construídas usando C# no Visual Studio. O objetivo é demonstrar a implementação de métodos HTTP GET e manipulação de rotas.
 
 [API](https://github.com/AndersonShermann/C-Sharp/tree/main/MinhaAPI)
 [MinimalAPI](https://github.com/AndersonShermann/C-Sharp/tree/main/MinhaMinimalAPI)
